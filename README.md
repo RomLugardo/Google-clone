@@ -1,2 +1,3 @@
 # Google-clone
-Google clone made with HTML and CSS
+### Google clone by RomLugardo
+Made with HTML and CSS
